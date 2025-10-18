@@ -1,11 +1,13 @@
 # dongfang
 东方导航系统3.0：UI焕新与功能扩容的全面升级
+
+# 免费下载链接：https://pan.quark.cn/s/6ba716f987b7
 <img width="1124" height="674" alt="image" src="https://github.com/user-attachments/assets/56f8951d-d30c-47dc-9379-e0d05235e25a" />
 <img width="675" height="1500" alt="image" src="https://github.com/user-attachments/assets/0b2416a5-c808-4969-b6f8-8b868fadc326" />
 <img width="675" height="1500" alt="image" src="https://github.com/user-attachments/assets/e0c928b0-591e-4ef3-b338-691990224a09" />
 <img width="675" height="1500" alt="image" src="https://github.com/user-attachments/assets/23c3c65d-14de-42b0-be8c-3f49008974f7" />
 
-# 免费下载链接：https://pan.quark.cn/s/6ba716f987b7
+
 
 东方导航系统3.0版本正式上线，本次更新围绕用户体验优化、功能模块扩容与开发生态建设三大核心，带来全方位的系统升级。为确保更新顺利，需提前备份数据库信息与uploads文件夹中的图片资源，替换全部文件后，手动将app/install/update.sql文件导入数据库即可完成升级。
 
